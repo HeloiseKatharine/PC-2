@@ -16,7 +16,7 @@ public class CadastraFuncionario {
         
         //System.in indica leitura do teclado
         Scanner leitor = new Scanner(System.in); 
-
+        
         System.out.println("Digite a matricula");
         Integer matricula = leitor.nextInt();
         
