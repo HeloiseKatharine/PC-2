@@ -44,6 +44,5 @@ public class CadastraFuncionario {
         
         leitor.close();
                 
-        
     }
 }
