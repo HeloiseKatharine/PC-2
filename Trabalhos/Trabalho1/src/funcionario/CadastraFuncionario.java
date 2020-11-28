@@ -7,6 +7,7 @@ package funcionario;
 
 import java.util.Scanner;
 
+
 /**
  *
  * @author Heloise
